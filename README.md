@@ -114,5 +114,6 @@ border-collapse	Selección del modelo de los bordes
 
 
 ## 3. Consulta que es Display block, inline e inline-block
+ block: hace que el comportamiento del elemento sea como un bloque. inline: el elemento se renderizará en línea con otros elementos. inline-block: el elemento tendrá un comportamiento mezcla entre los dos anteriores, que ahora voy a describir
 
  
