@@ -1,0 +1,19 @@
+#Propietariodelvehículo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    
+    background:url('https://images.pexels.com/photos/1287142/pexels-photo-1287142.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: deeppink;
+    font-family: Helvetica;
+ 
+    
+
+}
